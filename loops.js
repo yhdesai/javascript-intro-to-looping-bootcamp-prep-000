@@ -15,6 +15,9 @@ i =10
 console.log(n);
     i--
   }
+  if (number === 0) {
+    console.log("done");
+  }
 }
 
 function doWhileLoop(num) {
