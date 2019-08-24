@@ -15,7 +15,7 @@ i =10
 console.log(n);
     i--
   }
-  if (number === 0) {
+  if (n === 0) {
     console.log("done");
   }
 }
