@@ -16,7 +16,7 @@ console.log(n);
     i--
   }
   if (n === 0) {
-    console.log("done");
+    return("done");
   }
 }
 
